@@ -4,14 +4,16 @@ On this project there is 2 different code included PHP and Cucumber Java RestAss
 Detailed Test Cases, Bug Report and .feature files are on subfolder under the name of "Test Cases & Bug Report".
 
 # PHP #
+```
+1.Open terminal
+2.GO TO Directory then write ie /Users/mycomputername/desktop/github/testslots/PHP
+3. write "php -S 127.0.0.1:8080" press enter
+```
 
-Open terminal
-GO TO Directory then write ie /Users/mycomputername/desktop/github/testslots/PHP
-write "php -S 127.0.0.1:8080" press enter
-
+```
 postman send this method [GET] or browser
 http://localhost:8080/testSlots.php/
-
+```
 
 
 # TestRunner #
