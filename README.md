@@ -1,6 +1,8 @@
 # General #
 
-On this project there is 2 different code included PHP and Cucumber Java RestAssured BDD implementation.
+On this project there is 2 different code included PHP https://github.com/yusuf1925/testSlots 
+
+and Cucumber Java RestAssured BDD implementation. https://github.com/yusuf1925/TestSlotsCucumber 
 Detailed Test Cases, Bug Report and .feature files are on subfolder under the name of "Test Cases & Bug Report".
 
 # PHP #
