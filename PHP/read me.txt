@@ -1,0 +1,7 @@
+
+Open terminal
+GO TO Directory then write
+php -S 127.0.0.1:8080
+
+postman send this method [GET] or browser
+http://localhost:8080/testSlots.php/
